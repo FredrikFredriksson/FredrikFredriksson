@@ -12,7 +12,9 @@ I've been getting into AI automation lately — built a news bot that automatica
 
 **[beta.coin360.com](https://beta.coin360.com)** — the next version of Coin360 I've been building. Custom analytics dashboards, full rewrite of the core platform.
 
-**aicryptonews.com** — point it at a topic, tell it how many articles you want, it handles the rest. Scrapes sources via Brave API, writes original articles, generates images, publishes straight to Sanity CMS. No manual input after setup.
+**[aicryptonews.com](https://aicryptonews.com)** — point it at a topic, tell it how many articles you want, it handles the rest. Scrapes sources via Brave API, writes original articles, generates images, publishes straight to Sanity CMS. No manual input after setup.
+
+**[animal-spirit-oracle-cards](https://github.com/FredrikFredriksson/animal-spirit-oracle-cards)** — a React Native / Expo app for an oracle card deck. Browse cards, get daily draws, read interpretations. Built solo, published on the App Store.
 
 **PrintTorget** — a marketplace for 3D printing in Sweden. Sellers get their own storefront, list products, and respond to buyer requests with offers. Built-in chat between buyers and sellers, Stripe payments, Supabase backend, Google auth. Built the whole thing.
 
