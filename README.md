@@ -1,4 +1,4 @@
-# Hey, I'm Fredrik  🇸🇪 <img src="https://flagcdn.com/24x18/se.png" alt="Sweden">
+# Hey, I'm Fredrik <img src="https://flagcdn.com/24x18/se.png" alt="Sweden">🇸🇪
 
 Fullstack developer based in Malta, working remotely. I've been at [Coin360](https://coin360.com) for the past few years building and maintaining a crypto market data platform — everything from frontend performance and SEO to Go backend services running on Kubernetes.
 
