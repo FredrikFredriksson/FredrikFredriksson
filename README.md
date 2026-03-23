@@ -18,7 +18,7 @@ I've been getting into AI automation lately — built a news bot that automatica
 
 **PrintTorget** — a marketplace for 3D printing in Sweden. Sellers get their own storefront, list products, and respond to buyer requests with offers. Built-in chat between buyers and sellers, Stripe payments, Supabase backend, Google auth. Built the whole thing.
 
-**[TradingRoom](https://tradingroom-red.vercel.app)** — a personal trading journal and statistics dashboard I built for myself. Connects directly to Binance and BloFin via API to pull in trades automatically. Win/loss tracking, performance stats, and a personal budget/economy section for income and expenses. Built with React, TypeScript, Tailwind, Supabase.
+**[TradingRoom](https://tradingroom-red.vercel.app)** — a personal trading journal and statistics dashboard I built for myself. Connects directly to Binance and BloFin via API to pull in trades automatically. Win/loss tracking, performance stats, and built-in trade entry for quick manual journaling. Built with React, TypeScript, Tailwind, Supabase.
 
 ---
 
